@@ -1,5 +1,11 @@
-body{
-  background-color: rgb(245, 245, 248);
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+background-color: rgb(164, 219, 241);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 html {
   scroll-behavior: smooth;
