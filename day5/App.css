@@ -1,0 +1,10 @@
+.first{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+body{
+  background-color: rgba(127, 180, 255, 0.251);
+}

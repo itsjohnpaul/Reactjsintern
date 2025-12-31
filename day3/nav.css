@@ -1,0 +1,19 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(0, 136, 255, 0.731);
+
+}
+.de1{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 40px;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+}
