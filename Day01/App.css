@@ -1,0 +1,30 @@
+
+body {
+  margin: 0;
+  background-color: #1e1e2f; 
+}
+
+.one {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f4f4f4;
+  flex-direction: column;
+}
+
+.two {
+  padding: 70px 60px;
+  background-color: rgb(197, 199, 248);
+  border-radius:50%;
+}
+.two:hover{
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+.two h2 {
+  font-size: 24px;
+  color: blue;
+}
+.img{
+  border-radius: 20px;
+}
