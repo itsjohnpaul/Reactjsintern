@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import "./App.css";
 
 export default function App() {
-  const [name, setname] = useState("my website");
+  const [name, setname] = useState("myapp");
 
   useEffect(() => {
     document.title = name;
