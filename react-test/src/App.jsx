@@ -13,7 +13,7 @@ export default function App() {
 
   function sorted() {
     const sorteditems = [...item].sort(
-      (a, b) => a.priority - b.priority
+      (a,b) => a.priority - b.priority
     );
     setItems(sorteditems);
   }
