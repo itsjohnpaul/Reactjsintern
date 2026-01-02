@@ -27,8 +27,8 @@ function App() {
   }, []);
 
   const deleted= (id) => {
-    setData((prevData) =>
-      prevData.filter((user) => user.id !== id)
+    setData((pre) =>
+      pre.filter((user) => user.id !== id)
     );
   };
 
