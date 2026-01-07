@@ -13,8 +13,6 @@ function Item1() {
          alignItems:"center",
          justifyContent:"center",
         flexDirection:"column"
-
-      
       }}>
         <h1>Welcome {use.name} ! </h1>
         <h2>This is page 1 !</h2>
