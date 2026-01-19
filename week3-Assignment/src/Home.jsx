@@ -1,6 +1,6 @@
 import "./App.css"
 import usefetch from './usefetch'
-import useSort from './sortings';
+import useSort from './Sortings';
 import useCartReducer from './Reducer';
 import { useState } from "react";
 import Loading from "./Loading";
@@ -64,3 +64,4 @@ const { search, sort, category, filtersorted, setSearch, setSort, setCategory } 
 }
 
 export default Home
+
