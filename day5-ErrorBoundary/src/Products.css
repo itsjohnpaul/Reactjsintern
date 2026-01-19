@@ -6,7 +6,7 @@
 
 .title {
   text-align: center;
-  color: #2563eb;
+  color: #eaecf0;
   margin-bottom: 15px;
 }
 
@@ -22,7 +22,6 @@
   width: 300px;
   align-items: center;
   
-  margin-left: 600px;
 }
 
 .card:hover {
