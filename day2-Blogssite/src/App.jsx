@@ -4,7 +4,6 @@ import Dashboard from "./Dashboard";
 import Blogs from "./Blogs";
 import BlogDetail from "./BlogDetail";
 import Profile from "./Profile";
-import About from "./About";
 import NotFound from "./NotFound";
 import "./App.css"
 import Home from "./Home";
